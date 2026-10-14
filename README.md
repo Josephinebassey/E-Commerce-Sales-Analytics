@@ -116,7 +116,7 @@ These records were retained to avoid understating merchandise value.
 5. **Improve data quality:** Strengthen product categorization and maintain accurate delivery records.
 
 ## Power BI Dashboard
-
+![E-Commerce Sales and Delivery Dashboard](powerbi/dashboard.png)
 The dashboard includes:
 
 - Total Merchandise Value
@@ -127,9 +127,8 @@ The dashboard includes:
 - Customer Satisfaction by Delivery Status
 - Monthly Merchandise Sales Trend
 
-The Power BI project is saved as:
-
-`powerbi/Ecommerce_Sales_Delivery_Dashboard.pbix`
+The Power BI dashboard screenshot is available in the powerbi folder. 
+The editable .pbix project file is maintained locally.
 
 ## Project Limitations
 
